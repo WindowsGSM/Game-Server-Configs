@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<server_data port="{{port}}" name="{{ServerName}}" seed="13035" save_name="" max_players="{{maxplayers}}" password="" advanced_mode="true" day_night_length="60" sunrise="0.25" sunset="0.791" infinite_stock="false" unlock_all_islands="false" creative_menu="false" base_island="data/tiles/island12.xml" first_person="false" first_person_vehicle="false" vehicle_damage="false" player_damage="false" npc_damage="false" sharks="false" megalodon="false" teleport_vehicle="true" fast_travel="true" limited_fuel="false" starting_currency="15000" unlock_components="true">
+	<admins>
+		<id value="76561198080294966"/>
+	</admins>
+	<blacklist/>
+	<whitelist/>
+	<playlists>
+		<path value="rom/data/missions/arctic_mining"/>
+		<path value="rom/data/missions/arctic_search_and_rescue"/>
+		<path value="rom/data/missions/arctic_survey"/>
+		<path value="rom/data/missions/brilliant_fuels_oil"/>
+		<path value="rom/data/missions/clam_oil_company"/>
+		<path value="rom/data/missions/default_elevators"/>
+		<path value="rom/data/missions/default_fluid_gantries"/>
+		<path value="rom/data/missions/default_fuel_stores"/>
+		<path value="rom/data/missions/fishing_community"/>
+		<path value="rom/data/missions/lighthouse"/>
+		<path value="rom/data/missions/long_distance_shipping"/>
+		<path value="rom/data/missions/mega_island"/>
+		<path value="rom/data/missions/research_center"/>
+		<path value="rom/data/missions/sea_fort_tours"/>
+		<path value="rom/data/missions/skye_power_company"/>
+	</playlists>
+</server_data>
+
