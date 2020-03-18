@@ -1,0 +1,30 @@
+{
+	"servername": "{{servername}}",
+	"servername_short": "{{servername}}",
+	"gamemode": "Create a Onset server with WindowsGSM!",
+	"website_url": "https://windowsgsm.com",
+	"ipaddress": "{{ipaddress}}",
+	"port": {{port}},
+	"maxplayers": {{maxplayers}},
+	"password": "",
+	"timeout": 15000,
+	"iplimit": 5,
+	"masterlist": false,
+	"plugins": [
+		"mariadb",
+		"ini-plugin"
+	],
+	"packages": [
+		"packagemanager",
+		"zeus",
+		"default",
+		"freeroam",
+		"sandbox"
+	],
+	"stream_distance": 12000.0,
+	"stream_update_rate": 0.05,
+	"voice": true,
+	"voice_sample_rate": 24000,
+	"voice_distance": 4000.0,
+	"voice_spatialization": true
+}
